@@ -1,4 +1,4 @@
 <h1>Micro Services Tutorial</h1>
-<h3>In this project, I tried to understand and implement how the microservice architecture is created and works with the video I watched on youtube that shared by Ali Bouali.</h3>
-<h3>In order to track logs, Zipkin has been implemented.</h3>
-<h3>I also had chance to implement dockerise the application.</h3>
+<h3>Within this project, I endeavored to comprehend and implement the principles underlying microservice architecture, as elucidated in a YouTube video shared by Ali Bouali.
+For efficient log tracking, we have integrated Zipkin into the system.
+Additionally, I had the opportunity to dockerize the application.</h3>
